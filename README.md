@@ -1,6 +1,6 @@
 # bert_qa_flask
 
-### こちらのデータセット(https://nlp.ist.i.kyoto-u.ac.jp/index.php?Driving+domain+QA+datasets )でファインチューニングしたbertの日本語QAモデルを試せるWEBアプリをflaskで実装した
+### https://nlp.ist.i.kyoto-u.ac.jp/index.php?Driving+domain+QA+datasets でファインチューニングしたbertの日本語QAモデルを試せるWEBアプリ by flask
 
 ルートディレクトリにoutputというディレクトリ、output配下に訓練済みモデルがあることを想定
 
